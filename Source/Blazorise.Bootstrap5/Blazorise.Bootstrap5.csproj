@@ -4,6 +4,7 @@
 
   <PropertyGroup>
     <PackageTags>blazorise blazor components bootstrap</PackageTags>
+    <PackageVersion>0.9.5-cala.1</PackageVersion>
   </PropertyGroup>
 
   <ItemGroup>

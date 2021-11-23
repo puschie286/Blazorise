@@ -5,6 +5,7 @@
   <PropertyGroup>
     <PackageTags>blazorise blazor components</PackageTags>
     <BlazorWebAssemblyLoadAllGlobalizationData>true</BlazorWebAssemblyLoadAllGlobalizationData>
+    <PackageVersion>0.9.5-cala.1</PackageVersion>
   </PropertyGroup>
 
   <PropertyGroup>

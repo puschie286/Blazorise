@@ -5,6 +5,7 @@
   <PropertyGroup>
     <PackageTags>blazorise blazor components animate</PackageTags>
     <Authors>$(Authors);Mikael Koskinen</Authors>
+    <PackageVersion>0.9.5-cala.1</PackageVersion>
   </PropertyGroup>
 
   <PropertyGroup>

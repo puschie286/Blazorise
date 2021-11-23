@@ -5,6 +5,7 @@
   <PropertyGroup>
     <PackageTags>blazorise blazor components rtf richtextedit</PackageTags>
     <Authors>$(Authors);Niek Jannink</Authors>
+    <PackageVersion>0.9.5-cala.1</PackageVersion>
   </PropertyGroup>
 
   <PropertyGroup>
